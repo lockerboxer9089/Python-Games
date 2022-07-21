@@ -132,6 +132,5 @@ class TicTacToe:
 def main():
     t = TicTacToe()
     t.play_tictactoe()
-    print()
 
 main()
